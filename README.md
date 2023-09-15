@@ -1,3 +1,3 @@
 Đồ án App Food - react navite
- - Le Gia Bao-20057751
- 
+ - Hoten: Le Gia Bao
+ - Mssv: 20057751
