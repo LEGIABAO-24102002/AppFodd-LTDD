@@ -21,6 +21,7 @@ const Header = () => {
     </View>
   );
 };
+// ADD
 
 const styles = StyleSheet.create({
   container: {
